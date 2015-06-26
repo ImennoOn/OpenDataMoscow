@@ -1,0 +1,18 @@
+{
+    "contents" : "library(XML)\nlibrary(data.table)\nlibrary(dplyr)\nlibrary(ggplot2)\n\n\nxml.url <- \"http://www.fedstat.ru/opendata/7708234640-threeaoneazeroatwoaeight/data-2015-04-23-structure-2015-04-23.xml\"\nxmlfile <- xmlTreeParse(xml.url)\nxmltop = xmlRoot(xmlfile)\n\nplantcat <- xmlSApply(xmltop, function(x) xmlSApply(x, xmlValue))\n\nplantcat_df <- data.frame(t(plantcat),row.names=NULL)\nplantcat_df[1:5,1:4]\n\nfilename <- paste(getwd(),\"/opendata/psyLicenses.csv\", sep=\"\")\npsyLicenses <- data.frame(read.csv(filename, header = T, sep=\";\"))\n\ndf <- psyLicenses %>% select(ROWNUM, Address) %>% \n  mutate(Address=as.character(Address)) %>%\n  filter(nchar(Address) <= 6) %>%\n  mutate(first3 = substr(Address,0,3), first4 = substr(Address,0,4))\n\ngroupedBy3 <- df %>% group_by(first3) %>% summarise(count = n())\ngroupedBy4 <- df %>% group_by(first4) %>% summarise(count = n())\n\nqplot(groupedBy4$count, geom = \"histogram\")\nggplot(groupedBy4, aes(groupedBy4$count)) + geom_histogram() + theme_bw()\n    ",
+    "created" : 1435306625418.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3111632974",
+    "id" : "CFA4EEBA",
+    "lastKnownWriteTime" : 1435311055,
+    "path" : "~/Documents/Programming/OpenDataMoscow/openData.R",
+    "project_path" : "openData.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
