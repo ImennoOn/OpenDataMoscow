@@ -1,0 +1,2085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://budget.gov.ru:80/mdxexpert/resources/mdxexpert/schema/reportData.xsd">
+  <views>
+    <view caption="Таблица" type="table">
+      <cellset>
+        <axes>
+          <axis>
+            <positions>
+              <position ordinal="0">
+                <members>
+                  <member caption="Фед.бюджет" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-1" uniqueName="09-1"/>
+                  <member caption="Неуказанная территория"
+                    childCount="0" hierarchyName="Territories"
+                    levelDepth="1" levelName="Lev1,Territories"
+                    name="08-0" uniqueName="08-0">
+                    <memberProperties>
+                      <property name="CLSCode" value="0"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="1">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Российская  Федерация"
+                    childCount="10" hierarchyName="Territories"
+                    levelDepth="1" levelName="Lev1,Territories"
+                    name="08-2" uniqueName="08-2">
+                    <memberProperties>
+                      <property name="CLSCode" value="1"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="2">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Дальневосточный федеральный округ"
+                    childCount="9" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-17698" uniqueName="08-17698">
+                    <memberProperties>
+                      <property name="CLSCode" value="9"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="3">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Амурская область" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67708" uniqueName="08-67708">
+                    <memberProperties>
+                      <property name="CLSCode" value="10000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="4">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Еврейская автономная область"
+                    childCount="0" hierarchyName="Territories"
+                    levelDepth="3" levelName="Lev3,Territories"
+                    name="08-67705" uniqueName="08-67705">
+                    <memberProperties>
+                      <property name="CLSCode" value="99000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="5">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Камчатский край" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67728" uniqueName="08-67728">
+                    <memberProperties>
+                      <property name="CLSCode" value="30000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="6">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Магаданская область" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67703" uniqueName="08-67703">
+                    <memberProperties>
+                      <property name="CLSCode" value="44000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="7">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Приморский край" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67706" uniqueName="08-67706">
+                    <memberProperties>
+                      <property name="CLSCode" value="05000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="8">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Республика Саха (Якутия)"
+                    childCount="0" hierarchyName="Territories"
+                    levelDepth="3" levelName="Lev3,Territories"
+                    name="08-67642" uniqueName="08-67642">
+                    <memberProperties>
+                      <property name="CLSCode" value="98000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="9">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Сахалинская область" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67704" uniqueName="08-67704">
+                    <memberProperties>
+                      <property name="CLSCode" value="64000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="10">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Хабаровский край" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67707" uniqueName="08-67707">
+                    <memberProperties>
+                      <property name="CLSCode" value="08000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="11">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Чукотский автономный округ"
+                    childCount="0" hierarchyName="Territories"
+                    levelDepth="3" levelName="Lev3,Territories"
+                    name="08-67640" uniqueName="08-67640">
+                    <memberProperties>
+                      <property name="CLSCode" value="77000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="12">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Крымский федеральный округ"
+                    childCount="2" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-91128" uniqueName="08-91128">
+                    <memberProperties>
+                      <property name="CLSCode" value="10"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="13">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Приволжский федеральный округ"
+                    childCount="14" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-3417" uniqueName="08-3417">
+                    <memberProperties>
+                      <property name="CLSCode" value="4"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="14">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Северо-Западный федеральный округ"
+                    childCount="11" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-10249" uniqueName="08-10249">
+                    <memberProperties>
+                      <property name="CLSCode" value="5"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="15">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Северо-Кавказский федеральный округ"
+                    childCount="7" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-24604" uniqueName="08-24604">
+                    <memberProperties>
+                      <property name="CLSCode" value="2"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="16">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Сибирский федеральный округ"
+                    childCount="12" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-12097" uniqueName="08-12097">
+                    <memberProperties>
+                      <property name="CLSCode" value="6"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="17">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Уральский федеральный округ"
+                    childCount="6" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-16333" uniqueName="08-16333">
+                    <memberProperties>
+                      <property name="CLSCode" value="7"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="18">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Центральный федеральный округ"
+                    childCount="18" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-19099" uniqueName="08-19099">
+                    <memberProperties>
+                      <property name="CLSCode" value="8"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="19">
+                <members>
+                  <member caption="Бюджет субъекта" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-3" uniqueName="09-3"/>
+                  <member caption="Южный федеральный округ"
+                    childCount="6" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-3" uniqueName="08-3">
+                    <memberProperties>
+                      <property name="CLSCode" value="3"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="20">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Российская  Федерация"
+                    childCount="10" hierarchyName="Territories"
+                    levelDepth="1" levelName="Lev1,Territories"
+                    name="08-2" uniqueName="08-2">
+                    <memberProperties>
+                      <property name="CLSCode" value="1"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="21">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Дальневосточный федеральный округ"
+                    childCount="9" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-17698" uniqueName="08-17698">
+                    <memberProperties>
+                      <property name="CLSCode" value="9"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="22">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Амурская область" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67708" uniqueName="08-67708">
+                    <memberProperties>
+                      <property name="CLSCode" value="10000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="23">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Еврейская автономная область"
+                    childCount="0" hierarchyName="Territories"
+                    levelDepth="3" levelName="Lev3,Territories"
+                    name="08-67705" uniqueName="08-67705">
+                    <memberProperties>
+                      <property name="CLSCode" value="99000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="24">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Камчатский край" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67728" uniqueName="08-67728">
+                    <memberProperties>
+                      <property name="CLSCode" value="30000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="25">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Магаданская область" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67703" uniqueName="08-67703">
+                    <memberProperties>
+                      <property name="CLSCode" value="44000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="26">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Приморский край" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67706" uniqueName="08-67706">
+                    <memberProperties>
+                      <property name="CLSCode" value="05000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="27">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Республика Саха (Якутия)"
+                    childCount="0" hierarchyName="Territories"
+                    levelDepth="3" levelName="Lev3,Territories"
+                    name="08-67642" uniqueName="08-67642">
+                    <memberProperties>
+                      <property name="CLSCode" value="98000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="28">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Сахалинская область" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67704" uniqueName="08-67704">
+                    <memberProperties>
+                      <property name="CLSCode" value="64000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="29">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Хабаровский край" childCount="0"
+                    hierarchyName="Territories" levelDepth="3"
+                    levelName="Lev3,Territories" name="08-67707" uniqueName="08-67707">
+                    <memberProperties>
+                      <property name="CLSCode" value="08000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="30">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Чукотский автономный округ"
+                    childCount="0" hierarchyName="Territories"
+                    levelDepth="3" levelName="Lev3,Territories"
+                    name="08-67640" uniqueName="08-67640">
+                    <memberProperties>
+                      <property name="CLSCode" value="77000000"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="31">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Крымский федеральный округ"
+                    childCount="2" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-91128" uniqueName="08-91128">
+                    <memberProperties>
+                      <property name="CLSCode" value="10"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="32">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Приволжский федеральный округ"
+                    childCount="14" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-3417" uniqueName="08-3417">
+                    <memberProperties>
+                      <property name="CLSCode" value="4"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="33">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Северо-Западный федеральный округ"
+                    childCount="11" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-10249" uniqueName="08-10249">
+                    <memberProperties>
+                      <property name="CLSCode" value="5"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="34">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Северо-Кавказский федеральный округ"
+                    childCount="7" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-24604" uniqueName="08-24604">
+                    <memberProperties>
+                      <property name="CLSCode" value="2"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="35">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Сибирский федеральный округ"
+                    childCount="12" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-12097" uniqueName="08-12097">
+                    <memberProperties>
+                      <property name="CLSCode" value="6"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="36">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Уральский федеральный округ"
+                    childCount="6" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-16333" uniqueName="08-16333">
+                    <memberProperties>
+                      <property name="CLSCode" value="7"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="37">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Центральный федеральный округ"
+                    childCount="18" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-19099" uniqueName="08-19099">
+                    <memberProperties>
+                      <property name="CLSCode" value="8"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+              <position ordinal="38">
+                <members>
+                  <member caption="Бюджет района" childCount="0"
+                    hierarchyName="BGLevels" levelDepth="1"
+                    levelName="Lev1,BGLevels" name="09-5" uniqueName="09-5"/>
+                  <member caption="Южный федеральный округ"
+                    childCount="6" hierarchyName="Territories"
+                    levelDepth="2" levelName="Lev2,Territories"
+                    name="08-3" uniqueName="08-3">
+                    <memberProperties>
+                      <property name="CLSCode" value="3"/>
+                    </memberProperties>
+                  </member>
+                  <member caption="Объем чистых кассовых расходов"
+                    childCount="0" hierarchyName="Marks" levelDepth="1"
+                    levelName="Lev1,Marks" name="03-4" uniqueName="03-4"/>
+                  <member caption="Значение" childCount="0"
+                    hierarchyName="Measures" levelDepth="1"
+                    levelName="Lev1,Measures" name="VALUE" uniqueName="VALUE"/>
+                </members>
+              </position>
+            </positions>
+          </axis>
+          <axis>
+            <positions>
+              <position ordinal="0">
+                <members>
+                  <member caption="ОБЩЕГОСУДАРСТВЕННЫЕ ВОПРОСЫ"
+                    childCount="14" hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-848223" uniqueName="14-848223">
+                    <memberProperties>
+                      <property name="CLSCode" value="0100"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="1">
+                <members>
+                  <member
+                    caption="Функционирование Президента Российской Федерации"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413272" uniqueName="14-413272">
+                    <memberProperties>
+                      <property name="CLSCode" value="0101"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="2">
+                <members>
+                  <member
+                    caption="Функционирование высшего должностного лица субъекта Российской Федерации и муниципального образования"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-342647" uniqueName="14-342647">
+                    <memberProperties>
+                      <property name="CLSCode" value="0102"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="3">
+                <members>
+                  <member
+                    caption="Функционирование законодательных (представительных) органов государственной власти и представительных органов муниципальных образований"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413273" uniqueName="14-413273">
+                    <memberProperties>
+                      <property name="CLSCode" value="0103"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="4">
+                <members>
+                  <member
+                    caption="Функционирование Правительства Российской Федерации, высших исполнительных органов государственной власти субъектов Российской Федерации, местных администраций"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413274" uniqueName="14-413274">
+                    <memberProperties>
+                      <property name="CLSCode" value="0104"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="5">
+                <members>
+                  <member caption="Судебная система" childCount="0"
+                    hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413275" uniqueName="14-413275">
+                    <memberProperties>
+                      <property name="CLSCode" value="0105"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="6">
+                <members>
+                  <member
+                    caption="Обеспечение деятельности финансовых, налоговых и таможенных органов и органов финансового (финансово-бюджетного) надзора"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413276" uniqueName="14-413276">
+                    <memberProperties>
+                      <property name="CLSCode" value="0106"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="7">
+                <members>
+                  <member
+                    caption="Обеспечение проведения выборов и референдумов"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413277" uniqueName="14-413277">
+                    <memberProperties>
+                      <property name="CLSCode" value="0107"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="8">
+                <members>
+                  <member
+                    caption="Международные отношения и международное сотрудничество"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413278" uniqueName="14-413278">
+                    <memberProperties>
+                      <property name="CLSCode" value="0108"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="9">
+                <members>
+                  <member caption="Государственный материальный резерв"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413279" uniqueName="14-413279">
+                    <memberProperties>
+                      <property name="CLSCode" value="0109"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="10">
+                <members>
+                  <member caption="Фундаментальные исследования"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-848224" uniqueName="14-848224">
+                    <memberProperties>
+                      <property name="CLSCode" value="0110"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="11">
+                <members>
+                  <member caption="Резервные фонды" childCount="0"
+                    hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413281" uniqueName="14-413281">
+                    <memberProperties>
+                      <property name="CLSCode" value="0111"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="12">
+                <members>
+                  <member
+                    caption="Прикладные научные исследования в области общегосударственных вопросов"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-413282" uniqueName="14-413282">
+                    <memberProperties>
+                      <property name="CLSCode" value="0112"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="13">
+                <members>
+                  <member caption="Другие общегосударственные вопросы"
+                    childCount="0" hierarchyName="RZPR" levelDepth="2"
+                    levelName="Lev2,RZPR" name="14-848249" uniqueName="14-848249">
+                    <memberProperties>
+                      <property name="CLSCode" value="0113"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="14">
+                <members>
+                  <member caption="НАЦИОНАЛЬНАЯ ОБОРОНА" childCount="8"
+                    hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-413284" uniqueName="14-413284">
+                    <memberProperties>
+                      <property name="CLSCode" value="0200"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="15">
+                <members>
+                  <member
+                    caption="НАЦИОНАЛЬНАЯ БЕЗОПАСНОСТЬ И ПРАВООХРАНИТЕЛЬНАЯ ДЕЯТЕЛЬНОСТЬ"
+                    childCount="16" hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-850484" uniqueName="14-850484">
+                    <memberProperties>
+                      <property name="CLSCode" value="0300"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="16">
+                <members>
+                  <member caption="НАЦИОНАЛЬНАЯ ЭКОНОМИКА"
+                    childCount="13" hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-848398" uniqueName="14-848398">
+                    <memberProperties>
+                      <property name="CLSCode" value="0400"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="17">
+                <members>
+                  <member caption="ЖИЛИЩНО-КОММУНАЛЬНОЕ ХОЗЯЙСТВО"
+                    childCount="6" hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-848260" uniqueName="14-848260">
+                    <memberProperties>
+                      <property name="CLSCode" value="0500"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="18">
+                <members>
+                  <member caption="ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ"
+                    childCount="6" hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-1203414" uniqueName="14-1203414">
+                    <memberProperties>
+                      <property name="CLSCode" value="0600"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="19">
+                <members>
+                  <member caption="ОБРАЗОВАНИЕ" childCount="10"
+                    hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-848266" uniqueName="14-848266">
+                    <memberProperties>
+                      <property name="CLSCode" value="0700"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="20">
+                <members>
+                  <member caption="КУЛЬТУРА, КИНЕМАТОГРАФИЯ"
+                    childCount="5" hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-848294" uniqueName="14-848294">
+                    <memberProperties>
+                      <property name="CLSCode" value="0800"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="21">
+                <members>
+                  <member caption="ЗДРАВООХРАНЕНИЕ" childCount="10"
+                    hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-848302" uniqueName="14-848302">
+                    <memberProperties>
+                      <property name="CLSCode" value="0900"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="22">
+                <members>
+                  <member caption="СОЦИАЛЬНАЯ ПОЛИТИКА" childCount="7"
+                    hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-848345" uniqueName="14-848345">
+                    <memberProperties>
+                      <property name="CLSCode" value="1000"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+              <position ordinal="23">
+                <members>
+                  <member caption="ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ"
+                    childCount="6" hierarchyName="RZPR" levelDepth="1"
+                    levelName="Lev1,RZPR" name="14-1203401" uniqueName="14-1203401">
+                    <memberProperties>
+                      <property name="CLSCode" value="1100"/>
+                    </memberProperties>
+                  </member>
+                </members>
+              </position>
+            </positions>
+          </axis>
+        </axes>
+        <cells>
+          <row>
+            <cell>426759132006.53</cell>
+            <cell>111744491612.8</cell>
+            <cell>9826275860.210001</cell>
+            <cell>594885229.81</cell>
+            <cell>205772503.93</cell>
+            <cell>1419970059.37</cell>
+            <cell>464020890.35</cell>
+            <cell>1239946751.8899999</cell>
+            <cell>2327739379.65</cell>
+            <cell>1689158182.17</cell>
+            <cell>1560546157.07</cell>
+            <cell>324236705.97</cell>
+            <cell>1118124787.19</cell>
+            <cell>17683129105.96</cell>
+            <cell>16394779385.31</cell>
+            <cell>5184320492.16</cell>
+            <cell>10587218606.55</cell>
+            <cell>10146978854.89</cell>
+            <cell>33701266894.04</cell>
+            <cell>7102397626.49</cell>
+            <cell>47880099713.17</cell>
+            <cell>4893677413.62</cell>
+            <cell>478609246.91</cell>
+            <cell>139140541.98000002</cell>
+            <cell>541803194.59</cell>
+            <cell>311324890.19</cell>
+            <cell>500563051.21999997</cell>
+            <cell>1793529498.3</cell>
+            <cell>60806512.99</cell>
+            <cell>745555883.71</cell>
+            <cell>322344593.73</cell>
+            <cell>236633687.06</cell>
+            <cell>9417290663.87</cell>
+            <cell>4124266861.86</cell>
+            <cell>2059868182.4099998</cell>
+            <cell>6549259798.89</cell>
+            <cell>4729672225.2</cell>
+            <cell>11434223173.12</cell>
+            <cell>4435207707.14</cell>
+          </row>
+          <row>
+            <cell>6737599063.2</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell/>
+            <cell>1887479445.29</cell>
+            <cell>165948525</cell>
+            <cell>2940902.87</cell>
+            <cell>54882250.71</cell>
+            <cell>3182501.8600000003</cell>
+            <cell>2206960.04</cell>
+            <cell>5914636.59</cell>
+            <cell>78797076.95</cell>
+            <cell>11030272.639999999</cell>
+            <cell>5021863.41</cell>
+            <cell>1972059.9300000002</cell>
+            <cell/>
+            <cell>559786317.78</cell>
+            <cell>19468707.11</cell>
+            <cell>123056081.92</cell>
+            <cell>317483947.68</cell>
+            <cell>318975330.2</cell>
+            <cell>310707903.52</cell>
+            <cell>72052632.08</cell>
+            <cell>995807742.05</cell>
+            <cell>125211628.45</cell>
+            <cell>11466172.54</cell>
+            <cell>3599758.23</cell>
+            <cell>9210882.41</cell>
+            <cell>15524744.94</cell>
+            <cell>14920183.899999999</cell>
+            <cell>42363621.06</cell>
+            <cell>1719884.99</cell>
+            <cell>15308234.67</cell>
+            <cell>11098145.71</cell>
+            <cell>2788215.6500000004</cell>
+            <cell>194826575.45000002</cell>
+            <cell>73021754.35</cell>
+            <cell>42849679.49</cell>
+            <cell>174350502.2</cell>
+            <cell>102452089.84</cell>
+            <cell>197549157.9</cell>
+            <cell>82758138.72</cell>
+          </row>
+          <row>
+            <cell>4651262223.79</cell>
+            <cell>8442275463.88</cell>
+            <cell>798110485.28</cell>
+            <cell>41295792.54</cell>
+            <cell>19783678.580000002</cell>
+            <cell>90232150.97</cell>
+            <cell>53140989.17</cell>
+            <cell>164663336.46</cell>
+            <cell>143814739.13</cell>
+            <cell>139285942.89</cell>
+            <cell>81146621.69</cell>
+            <cell>64747233.85</cell>
+            <cell>143818408.72</cell>
+            <cell>1010624781.8</cell>
+            <cell>1347906839.43</cell>
+            <cell>472980055.17</cell>
+            <cell>879342382.5</cell>
+            <cell>977624955.6899999</cell>
+            <cell>2294271447.15</cell>
+            <cell>517596108.14000005</cell>
+            <cell>1798752528.42</cell>
+            <cell>167421526.34</cell>
+            <cell>26625935.85</cell>
+            <cell>8417081.34</cell>
+            <cell>26630759.03</cell>
+            <cell>13014767.379999999</cell>
+            <cell>23362487.78</cell>
+            <cell>33168748.63</cell>
+            <cell>3300221.65</cell>
+            <cell>21626791.2</cell>
+            <cell>11274733.48</cell>
+            <cell>27505759.349999998</cell>
+            <cell>541788103</cell>
+            <cell>107403227.89</cell>
+            <cell>109380633.02</cell>
+            <cell>281140796.46</cell>
+            <cell>168468338.93</cell>
+            <cell>314381899.03000003</cell>
+            <cell>81262244.4</cell>
+          </row>
+          <row>
+            <cell>2203803286.91</cell>
+            <cell>11566624967.68</cell>
+            <cell>1174790772.97</cell>
+            <cell>61180866.89</cell>
+            <cell>10269772.29</cell>
+            <cell>183880691.82999998</cell>
+            <cell>87726522.11</cell>
+            <cell>69733651.78999999</cell>
+            <cell>149973999.88</cell>
+            <cell>201443699.04999998</cell>
+            <cell>293342875.67</cell>
+            <cell>117238693.46000001</cell>
+            <cell>548448045.97</cell>
+            <cell>1070962285.73</cell>
+            <cell>1911318318.57</cell>
+            <cell>938818615.33</cell>
+            <cell>1193963557.54</cell>
+            <cell>956715241.8000001</cell>
+            <cell>3022747969.15</cell>
+            <cell>748860160.62</cell>
+            <cell>24487012522.08</cell>
+            <cell>2040069316.32</cell>
+            <cell>210660577.14000002</cell>
+            <cell>85153256.62</cell>
+            <cell>221026004.26</cell>
+            <cell>193951185.09</cell>
+            <cell>141443749.88</cell>
+            <cell>580741684.57</cell>
+            <cell>27129250.96</cell>
+            <cell>386941972.56</cell>
+            <cell>193021635.24</cell>
+            <cell>157732967.98000002</cell>
+            <cell>4817214096.57</cell>
+            <cell>2195256180.03</cell>
+            <cell>1100817360.3</cell>
+            <cell>3437291410.3</cell>
+            <cell>2228340133.48</cell>
+            <cell>6490651953.01</cell>
+            <cell>2019639104.09</cell>
+          </row>
+          <row>
+            <cell>60221948254.02</cell>
+            <cell>8322147949.12</cell>
+            <cell>715286989.71</cell>
+            <cell>70079812.21000001</cell>
+            <cell>22807014.61</cell>
+            <cell>94297868.2</cell>
+            <cell/>
+            <cell>128052595.75999999</cell>
+            <cell>158735821.47</cell>
+            <cell>80352164.06</cell>
+            <cell>143665274.08</cell>
+            <cell>17296439.32</cell>
+            <cell/>
+            <cell>1257836077.5</cell>
+            <cell>945675480.12</cell>
+            <cell>463306941.08</cell>
+            <cell>1066459153.26</cell>
+            <cell>891476539.32</cell>
+            <cell>2416076914.34</cell>
+            <cell>566029853.7900001</cell>
+            <cell>472.0</cell>
+            <cell>472.0</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>472.0</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell>80620721739.56</cell>
+            <cell>8540162531.1</cell>
+            <cell>693254835.77</cell>
+            <cell>69503822.97</cell>
+            <cell>16820521.759999998</cell>
+            <cell>77186566.41</cell>
+            <cell>56216490.13</cell>
+            <cell>67796199.77</cell>
+            <cell>215852365.34</cell>
+            <cell>88060799.33</cell>
+            <cell>24810103.529999997</cell>
+            <cell>77007966.53</cell>
+            <cell>76018025.47</cell>
+            <cell>1296044600.73</cell>
+            <cell>1004133214.5300001</cell>
+            <cell>467950452.38</cell>
+            <cell>1171372301.0200002</cell>
+            <cell>845935682.96</cell>
+            <cell>2431752001.14</cell>
+            <cell>553701417.1</cell>
+            <cell>6582348690.9</cell>
+            <cell>628359616.05</cell>
+            <cell>86531011.67999999</cell>
+            <cell>11804821.899999999</cell>
+            <cell>59530742.92</cell>
+            <cell>54657527.510000005</cell>
+            <cell>58111021.230000004</cell>
+            <cell>255857635.41</cell>
+            <cell>6351841.27</cell>
+            <cell>22661506.37</cell>
+            <cell>72853507.76</cell>
+            <cell>24112497.69</cell>
+            <cell>1207383564.45</cell>
+            <cell>533944480.03000003</cell>
+            <cell>417158347.84</cell>
+            <cell>974902042.1</cell>
+            <cell>745720808.21</cell>
+            <cell>1469995418.0800002</cell>
+            <cell>580771916.45</cell>
+          </row>
+          <row>
+            <cell>1083663153.45</cell>
+            <cell>3461367737.49</cell>
+            <cell>342908240.1</cell>
+            <cell>20961718.84</cell>
+            <cell>4922326.609999999</cell>
+            <cell>150089235.86</cell>
+            <cell>12904900.71</cell>
+            <cell>59681052.11</cell>
+            <cell>33955102.58</cell>
+            <cell>19315677.66</cell>
+            <cell>29305581.32</cell>
+            <cell>11772644.41</cell>
+            <cell>24763543.1</cell>
+            <cell>530135053.83</cell>
+            <cell>288778007.49</cell>
+            <cell>120414217.14999999</cell>
+            <cell>511485608.19</cell>
+            <cell>310252963.03000003</cell>
+            <cell>798076674.6700001</cell>
+            <cell>534553429.92999995</cell>
+            <cell>79709474.55</cell>
+            <cell>24826226.03</cell>
+            <cell>315502.08</cell>
+            <cell/>
+            <cell>1699179.8699999999</cell>
+            <cell>701700.0</cell>
+            <cell>1386330.0</cell>
+            <cell>9874718.7</cell>
+            <cell/>
+            <cell/>
+            <cell>10848795.38</cell>
+            <cell/>
+            <cell>7312641.93</cell>
+            <cell>4821568.86</cell>
+            <cell>245830.0</cell>
+            <cell>13932866.82</cell>
+            <cell>4000.0</cell>
+            <cell>28524260.91</cell>
+            <cell>42080.0</cell>
+          </row>
+          <row>
+            <cell>101873398016.82</cell>
+            <cell>249492736.28</cell>
+            <cell>925000.0</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>925000.0</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>1915262.92</cell>
+            <cell>7337195.57</cell>
+            <cell/>
+            <cell>1273899.0899999999</cell>
+            <cell/>
+            <cell>237300830.48</cell>
+            <cell>740548.22</cell>
+            <cell>262703.0</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>262703.0</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell>36338877312.81</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell>67775211403.439995</cell>
+            <cell>356105590.53000003</cell>
+            <cell>62410073.02</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>62410073.02</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>184022760.9</cell>
+            <cell>5578025.53</cell>
+            <cell>58660260.58</cell>
+            <cell>28833114.09</cell>
+            <cell/>
+            <cell>2455000.0</cell>
+            <cell>14146356.41</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell/>
+            <cell>10709385.7</cell>
+            <cell>45000.0</cell>
+            <cell/>
+            <cell>45000.0</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>8659385.7</cell>
+            <cell/>
+            <cell/>
+            <cell>2005000.0</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>24410631.4</cell>
+            <cell>2973382.91</cell>
+            <cell>10000.0</cell>
+            <cell>1267304.21</cell>
+            <cell>325000.0</cell>
+            <cell>366078.7</cell>
+            <cell/>
+            <cell>900000.0</cell>
+            <cell/>
+            <cell>105000.0</cell>
+            <cell/>
+            <cell/>
+            <cell>1223153.1099999999</cell>
+            <cell>2336708.6799999997</cell>
+            <cell>616196.0</cell>
+            <cell>13041363.61</cell>
+            <cell>1025054.64</cell>
+            <cell>2759944.19</cell>
+            <cell>434828.26</cell>
+          </row>
+          <row>
+            <cell>9790200681.25</cell>
+            <cell>319845038.65</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>201253290.13</cell>
+            <cell>254148.0</cell>
+            <cell>11423859</cell>
+            <cell>24901231.35</cell>
+            <cell>51604734.34</cell>
+            <cell>29310000</cell>
+            <cell>1097775.83</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell>55462446871.28</cell>
+            <cell>68588280767.08</cell>
+            <cell>5872595938.36</cell>
+            <cell>328922313.49</cell>
+            <cell>76241939.37</cell>
+            <cell>821101044.24</cell>
+            <cell>251825028.19</cell>
+            <cell>744105279.41</cell>
+            <cell>1483275201.28</cell>
+            <cell>1149669626.54</cell>
+            <cell>983253837.3699999</cell>
+            <cell>34201668.47</cell>
+            <cell>325076763.93</cell>
+            <cell>11561889288.94</cell>
+            <cell>10864329448.96</cell>
+            <cell>2527710009.55</cell>
+            <cell>5390098411.83</cell>
+            <cell>5794393407.55</cell>
+            <cell>22158568153.59</cell>
+            <cell>4093619344.37</cell>
+            <cell>13911794948.77</cell>
+            <cell>1904815245.52</cell>
+            <cell>143000047.62</cell>
+            <cell>28898319.68</cell>
+            <cell>223380626.10000002</cell>
+            <cell>33108886.57</cell>
+            <cell>261339278.43</cell>
+            <cell>870623089.9300001</cell>
+            <cell>22305314.12</cell>
+            <cell>298911906.91</cell>
+            <cell>23247776.16</cell>
+            <cell>24494246.39</cell>
+            <cell>2647542529.36</cell>
+            <cell>1207220239.02</cell>
+            <cell>388800135.76</cell>
+            <cell>1654600817.4</cell>
+            <cell>1483661800.1000001</cell>
+            <cell>2930360540</cell>
+            <cell>1670299395.22</cell>
+          </row>
+          <row>
+            <cell>1936817570287.24</cell>
+            <cell>2022401504.31</cell>
+            <cell>184519038.04999998</cell>
+            <cell>12859531.37</cell>
+            <cell>3950141.84</cell>
+            <cell>5441301.61</cell>
+            <cell/>
+            <cell>11127200</cell>
+            <cell>33746910.54</cell>
+            <cell>100645818.69</cell>
+            <cell>13697880</cell>
+            <cell>3050254.0</cell>
+            <cell>15271218</cell>
+            <cell>385792957.31</cell>
+            <cell>124296665.59</cell>
+            <cell>93604935.3</cell>
+            <cell>300066555.78</cell>
+            <cell>156731918.15</cell>
+            <cell>551494222.39</cell>
+            <cell>210623993.74</cell>
+            <cell>699799711.86</cell>
+            <cell>43893738.660000004</cell>
+            <cell>130463.87</cell>
+            <cell>29700.0</cell>
+            <cell>4018881.22</cell>
+            <cell/>
+            <cell>10577300</cell>
+            <cell>29126399.02</cell>
+            <cell/>
+            <cell/>
+            <cell>10994.55</cell>
+            <cell>10596285.94</cell>
+            <cell>223485786.38</cell>
+            <cell>46307314.72</cell>
+            <cell>36591104.5</cell>
+            <cell>145143872.15</cell>
+            <cell>99762267.06</cell>
+            <cell>73615752.33</cell>
+            <cell>20403590.12</cell>
+          </row>
+          <row>
+            <cell>793762360301.64</cell>
+            <cell>33226288702.48</cell>
+            <cell>4638359249.27</cell>
+            <cell>371228696.5</cell>
+            <cell>52956454.230000004</cell>
+            <cell>528941991.91</cell>
+            <cell>301945338.35</cell>
+            <cell>438854271.83000004</cell>
+            <cell>1217639237.3899999</cell>
+            <cell>722667149.69</cell>
+            <cell>905931866.15</cell>
+            <cell>98194243.22</cell>
+            <cell>227406320.68</cell>
+            <cell>3156108906.5</cell>
+            <cell>4330070555.84</cell>
+            <cell>1042149478.51</cell>
+            <cell>2869978185.8</cell>
+            <cell>3215319135.78</cell>
+            <cell>12200590916.85</cell>
+            <cell>1546305953.25</cell>
+            <cell>2237727589.26</cell>
+            <cell>231546899.6</cell>
+            <cell>11695298.21</cell>
+            <cell>140768.2</cell>
+            <cell>21451330.15</cell>
+            <cell>9422159.09</cell>
+            <cell>2525534.48</cell>
+            <cell>100224398.55</cell>
+            <cell>485276.0</cell>
+            <cell>55033611.58</cell>
+            <cell>30568523.34</cell>
+            <cell/>
+            <cell>416468508.3</cell>
+            <cell>85829693.97</cell>
+            <cell>149700701.03</cell>
+            <cell>281845416.71</cell>
+            <cell>258968183.01</cell>
+            <cell>524022220.51</cell>
+            <cell>289345966.13</cell>
+          </row>
+          <row>
+            <cell>745025040770.65</cell>
+            <cell>520395264667.3</cell>
+            <cell>30661644754.56</cell>
+            <cell>3206976527.8</cell>
+            <cell>398805948.21999997</cell>
+            <cell>3990073493.1</cell>
+            <cell>1071165033.96</cell>
+            <cell>3013517232.84</cell>
+            <cell>8031876641.240001</cell>
+            <cell>5492444455.67</cell>
+            <cell>3811215956.55</cell>
+            <cell>1645569465.18</cell>
+            <cell>9109148154.15</cell>
+            <cell>85330193601.8</cell>
+            <cell>52235437147.38</cell>
+            <cell>15057757896.05</cell>
+            <cell>44450602412.5</cell>
+            <cell>38740374567.83</cell>
+            <cell>216682409784.07</cell>
+            <cell>28127696348.96</cell>
+            <cell>24256173208.26</cell>
+            <cell>3230786643.49</cell>
+            <cell>89131062.82</cell>
+            <cell>15792179.649999999</cell>
+            <cell>89054936.94</cell>
+            <cell>55830495.87</cell>
+            <cell>41465736.7</cell>
+            <cell>2410156045.19</cell>
+            <cell>24649840.64</cell>
+            <cell>67432629.13</cell>
+            <cell>437273716.54999995</cell>
+            <cell>3990360.84</cell>
+            <cell>4770223322.01</cell>
+            <cell>1756259639.92</cell>
+            <cell>1201873376.14</cell>
+            <cell>2962464899.49</cell>
+            <cell>4053027446.13</cell>
+            <cell>3504982865.76</cell>
+            <cell>2772564654.48</cell>
+          </row>
+          <row>
+            <cell>49077300082.22001</cell>
+            <cell>205134775959.3</cell>
+            <cell>31870243067.93</cell>
+            <cell>1515619098.26</cell>
+            <cell>337707489.34999996</cell>
+            <cell>3807936955.81</cell>
+            <cell>2019747979.6000001</cell>
+            <cell>590089567.17</cell>
+            <cell>12728710510.44</cell>
+            <cell>4812686965.52</cell>
+            <cell>3057271299.21</cell>
+            <cell>3000473202.5699997</cell>
+            <cell>270634638.45000005</cell>
+            <cell>15125306265.75</cell>
+            <cell>24239326555.88</cell>
+            <cell>2485198819.33</cell>
+            <cell>14706186825.06</cell>
+            <cell>16280912417.99</cell>
+            <cell>95660901843.53</cell>
+            <cell>4496065525.38</cell>
+            <cell>26878016224.85</cell>
+            <cell>4580677812.84</cell>
+            <cell>281575435.62</cell>
+            <cell>14301298.83</cell>
+            <cell>78455260.8</cell>
+            <cell>41180035.82</cell>
+            <cell>30454967.55</cell>
+            <cell>1336477561.11</cell>
+            <cell/>
+            <cell>2366253401.12</cell>
+            <cell>431979851.99</cell>
+            <cell/>
+            <cell>4029443275.87</cell>
+            <cell>2778315220.29</cell>
+            <cell>405687882.26</cell>
+            <cell>6561358458.89</cell>
+            <cell>3636561073.75</cell>
+            <cell>3820450573.85</cell>
+            <cell>1065521927.1</cell>
+          </row>
+          <row>
+            <cell>27287057532.09</cell>
+            <cell>8414596672.599999</cell>
+            <cell>613406236.99</cell>
+            <cell>27824592.86</cell>
+            <cell>12977035.91</cell>
+            <cell>44342525.190000005</cell>
+            <cell>31225250.78</cell>
+            <cell>22747369.080000002</cell>
+            <cell>342261379.75</cell>
+            <cell>67626460.38</cell>
+            <cell>25888180.3</cell>
+            <cell>38513442.74</cell>
+            <cell>101728555.69</cell>
+            <cell>679689712.69</cell>
+            <cell>746501373.64</cell>
+            <cell>242325892.26</cell>
+            <cell>583666527.05</cell>
+            <cell>666995036.32</cell>
+            <cell>4378027645.53</cell>
+            <cell>402255692.43</cell>
+            <cell>204782153.4</cell>
+            <cell>36994173.45</cell>
+            <cell>25000.0</cell>
+            <cell/>
+            <cell>99850.0</cell>
+            <cell>2723706.69</cell>
+            <cell>396021.02</cell>
+            <cell>4048503.46</cell>
+            <cell>26639207.02</cell>
+            <cell>3061885.2600000002</cell>
+            <cell/>
+            <cell>355824.0</cell>
+            <cell>35066579.1</cell>
+            <cell>11327867.91</cell>
+            <cell/>
+            <cell>30035154.97</cell>
+            <cell>46395770.7</cell>
+            <cell>32329062.32</cell>
+            <cell>12277720.95</cell>
+          </row>
+          <row>
+            <cell>304138578656.46</cell>
+            <cell>910288354299.65</cell>
+            <cell>64133714454.37</cell>
+            <cell>4730699937.05</cell>
+            <cell>1043672273.2</cell>
+            <cell>6171354881.65</cell>
+            <cell>2557346013.75</cell>
+            <cell>8237885996.76</cell>
+            <cell>21813962683.059998</cell>
+            <cell>8309317466.7699995</cell>
+            <cell>9421188556.2</cell>
+            <cell>1848286645.93</cell>
+            <cell>10446847918.06</cell>
+            <cell>144336030965.18</cell>
+            <cell>105959618480.03</cell>
+            <cell>42301055937.05</cell>
+            <cell>114886908925.77</cell>
+            <cell>93136544592.71</cell>
+            <cell>276777789783.84</cell>
+            <cell>58309843242.64</cell>
+            <cell>394417247028.96</cell>
+            <cell>40697366129.16</cell>
+            <cell>3057808598.57</cell>
+            <cell>636837430.23</cell>
+            <cell>3048468187.75</cell>
+            <cell>999613846.07</cell>
+            <cell>3533752899.23</cell>
+            <cell>22144318444.809998</cell>
+            <cell>373265699.5</cell>
+            <cell>5156055049.26</cell>
+            <cell>1747245973.74</cell>
+            <cell>3452470016.62</cell>
+            <cell>76351308060.54001</cell>
+            <cell>32614439060.96</cell>
+            <cell>25942527300.36</cell>
+            <cell>62755405037.62</cell>
+            <cell>30030490669.46</cell>
+            <cell>87611040423.42</cell>
+            <cell>34962200330.82</cell>
+          </row>
+          <row>
+            <cell>35682362911.26</cell>
+            <cell>61900134902.76</cell>
+            <cell>3833929119.84</cell>
+            <cell>124982956.44999999</cell>
+            <cell>29764668.96</cell>
+            <cell>332008026.98</cell>
+            <cell>271410720.17</cell>
+            <cell>392890165.90000004</cell>
+            <cell>1115664866.74</cell>
+            <cell>880176079.98</cell>
+            <cell>637606456.08</cell>
+            <cell>49425178.58</cell>
+            <cell>630926901.74</cell>
+            <cell>8897260926.46</cell>
+            <cell>8394160734.940001</cell>
+            <cell>1834015072.25</cell>
+            <cell>6286249685.36</cell>
+            <cell>4095279674.54</cell>
+            <cell>24767708856.690002</cell>
+            <cell>3160603930.94</cell>
+            <cell>28625584422.34</cell>
+            <cell>2605599236.43</cell>
+            <cell>250670974.64000002</cell>
+            <cell>41515030.45</cell>
+            <cell>275992446.59999996</cell>
+            <cell>105131568.21000001</cell>
+            <cell>147868972.13</cell>
+            <cell>978216792.87</cell>
+            <cell>20553495.3</cell>
+            <cell>539601890.14</cell>
+            <cell>246048066.09</cell>
+            <cell>313912554.01</cell>
+            <cell>7209658796.940001</cell>
+            <cell>2115568167.05</cell>
+            <cell>994727561.56</cell>
+            <cell>4672756359.29</cell>
+            <cell>2614073558.14</cell>
+            <cell>6642116523.309999</cell>
+            <cell>1457171665.6100001</cell>
+          </row>
+          <row>
+            <cell>199206816139.61</cell>
+            <cell>592220271687.25</cell>
+            <cell>39437998553.6</cell>
+            <cell>3312565052.06</cell>
+            <cell>992335958.2399999</cell>
+            <cell>3427542996.33</cell>
+            <cell>2488625431.85</cell>
+            <cell>7733470723.349999</cell>
+            <cell>7642650284.17</cell>
+            <cell>6492664868.780001</cell>
+            <cell>6276906527.03</cell>
+            <cell>1071236711.79</cell>
+            <cell>6803114371.72</cell>
+            <cell>93635220059.58</cell>
+            <cell>70227325062.67</cell>
+            <cell>28775627469.219997</cell>
+            <cell>74834615064.13</cell>
+            <cell>62671230499.57</cell>
+            <cell>172051088393.84</cell>
+            <cell>43784052212.92</cell>
+            <cell>2156196665.15</cell>
+            <cell>43467997.62</cell>
+            <cell>5854136.71</cell>
+            <cell/>
+            <cell>36715601.559999995</cell>
+            <cell/>
+            <cell>766259.35</cell>
+            <cell/>
+            <cell/>
+            <cell>132000.0</cell>
+            <cell/>
+            <cell/>
+            <cell>19335145.8</cell>
+            <cell>30624658.88</cell>
+            <cell>26726024.490000002</cell>
+            <cell>224947302.89000002</cell>
+            <cell>283040043.94</cell>
+            <cell>343615823.34</cell>
+            <cell>1184439668.19</cell>
+          </row>
+          <row>
+            <cell>1860019004491.06</cell>
+            <cell>666700756168.12</cell>
+            <cell>44863599430.76</cell>
+            <cell>4985894836.300001</cell>
+            <cell>951507045.6199999</cell>
+            <cell>3866517313.54</cell>
+            <cell>1350112338.81</cell>
+            <cell>11292400525.53</cell>
+            <cell>9126746986.83</cell>
+            <cell>5266060644.29</cell>
+            <cell>7380862650.05</cell>
+            <cell>643497089.79</cell>
+            <cell>6459409986.46</cell>
+            <cell>105469839926</cell>
+            <cell>67589409410.899994</cell>
+            <cell>28045050545.829998</cell>
+            <cell>82598652712.88</cell>
+            <cell>60488986710.630005</cell>
+            <cell>223520768732</cell>
+            <cell>47665038712.66</cell>
+            <cell>57506704751.840004</cell>
+            <cell>2095445149.33</cell>
+            <cell>260783677.35</cell>
+            <cell>18244523.11</cell>
+            <cell>386568387.32</cell>
+            <cell>21890627.87</cell>
+            <cell>33144621.209999997</cell>
+            <cell>808214795.49</cell>
+            <cell>59177029.25</cell>
+            <cell>383102782.21000004</cell>
+            <cell>124318705.52</cell>
+            <cell>1988654329.9199998</cell>
+            <cell>6991522643.78</cell>
+            <cell>8380728076.429999</cell>
+            <cell>5728545747.04</cell>
+            <cell>7424037649.61</cell>
+            <cell>6582023279.47</cell>
+            <cell>10215780415.35</cell>
+            <cell>8099967460.91</cell>
+          </row>
+          <row>
+            <cell>30225925542.98</cell>
+            <cell>50943562650.38</cell>
+            <cell>3458041864.53</cell>
+            <cell>181806997.03</cell>
+            <cell>41523360.21</cell>
+            <cell>549130793.4100001</cell>
+            <cell>95035386.92999999</cell>
+            <cell>515985087.03</cell>
+            <cell>579676933.92</cell>
+            <cell>698499264.24</cell>
+            <cell>747147474.15</cell>
+            <cell>49236567.61</cell>
+            <cell>137009275.94</cell>
+            <cell>7430172715.11</cell>
+            <cell>6203357600.62</cell>
+            <cell>1947320770.74</cell>
+            <cell>4587459928.19</cell>
+            <cell>6347466298.1</cell>
+            <cell>17144980955.869999</cell>
+            <cell>3687753241.2799997</cell>
+            <cell>6798015040.11</cell>
+            <cell>636745102.64</cell>
+            <cell>17810389.41</cell>
+            <cell>7553253.32</cell>
+            <cell>61565938.39</cell>
+            <cell>54709696.01</cell>
+            <cell>7571304.9799999995</cell>
+            <cell>270688725.32</cell>
+            <cell>4378745.27</cell>
+            <cell>174161012.06</cell>
+            <cell>38306037.879999995</cell>
+            <cell>33817609.92</cell>
+            <cell>1108260786.2</cell>
+            <cell>557646221.85</cell>
+            <cell>199872804.68</cell>
+            <cell>679635838.03</cell>
+            <cell>917733014.64</cell>
+            <cell>2141175754.05</cell>
+            <cell>523127908.1</cell>
+          </row>
+        </cells>
+      </cellset>
+    </view>
+  </views>
+</report>
